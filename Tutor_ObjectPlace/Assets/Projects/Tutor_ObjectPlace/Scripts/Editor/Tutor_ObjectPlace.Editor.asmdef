@@ -1,0 +1,1 @@
+{"name":"Tutor_ObjectPlace.Editor","references":["Tutor_ObjectPlace.Runtime"],"includePlatforms":["Editor"],"excludePlatforms":[],"allowUnsafeCode":false,"overrideReferences":false,"precompiledReferences":[],"autoReferenced":true,"defineConstraints":[],"versionDefines":[],"noEngineReferences":false}
